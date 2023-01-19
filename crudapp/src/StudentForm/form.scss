@@ -1,0 +1,106 @@
+.main {
+    // border: 1px solid black;
+    background-color: white;
+    width: 600px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    box-shadow: #00000029 0px 3px 6px;
+    border-radius: 10px;
+    &__inform {
+        margin-left: 10px;
+        margin-right: 50px;
+    }
+    &__head {
+        margin-left: 20px;
+        margin-top: 50px;
+        h1{
+            padding-top: 10px;
+            font-size:larger;
+        }
+    }
+    
+
+    &__container {
+        // gap: 10px;
+        display: flex;
+        flex-direction: column;
+        .rowTwo {
+            display: grid;
+            flex-wrap: wrap;
+            grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
+            gap: 10px;
+        }
+    }
+    
+}
+
+
+.add {
+    border: 1px solid #396cc5;
+    margin-left: 900px;
+    text-decoration: none;
+    color: #396cc5;
+    border-radius: 20px;
+    width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 25px;
+}
+.table {
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: #00000029 0px 3px 6px;
+    width: 1000px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.icon {
+    padding-left: 20px;
+}
+.submit {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.zelar {
+    background-color: #396cc5;
+    margin-top: -25px;
+}
+.data {
+    margin-left: 400px;
+    width: 500px;
+    height: 400px;
+    // margin-top: 100px;
+    padding: 10px;
+    box-shadow: #0a0a0a29 0px 5px 5px;}
+    .back {
+        text-decoration: none;
+       margin-top: -20px;
+       margin-right: 200px;
+        padding: 10px;
+        float: right;
+    }
+    .back1{
+        text-decoration: none;
+       margin-top: -20px;
+     margin-right: -250px;
+        padding: 10px;
+        float: right;
+
+    }
+
+table,th,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 100px;
+    width: 300px;
+}
+td{
+    width: 200px;
+    padding: 10px;
+}
+// .rowOne{
+//     display: grid;
+//     flex-flow: wrap;
+// }

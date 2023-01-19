@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "Name": "anitha",
+      "RollNumber": 202001,
+      "English": "89",
+      "Telugu": "89",
+      "Hindi": "90",
+      "Science": "90",
+      "Social": "90",
+      "Activites": "drawimg",
+      "TotalMarks": "405",
+      "name": "anitha",
+      "id": 0.34256187769479807
+    },
+    {
+      "Name": "fayaz",
+      "RollNumber": 202002,
+      "English": "89",
+      "Telugu": "99",
+      "Hindi": "98",
+      "Science": "90",
+      "Social": "89",
+      "Activites": "spots",
+      "TotalMarks": "598",
+      "name": "fayaz",
+      "id": 0.17888103741183792
+    },
+    {
+      "Name": "joel",
+      "RollNumber": 202004,
+      "English": "98",
+      "Telugu": "78",
+      "Hindi": "56",
+      "Science": "89",
+      "Social": "98",
+      "Activites": "spots",
+      "TotalMarks": "409",
+      "id": 0.44715798536985774
+    }
+  ]
+}
